@@ -41,6 +41,7 @@ Here is how to acquire the necessary components:
   - Select these workloads during installation:
     - .NET desktop build tools
     - Visual Studio extension development
+- Install NPM.  Needed for the NpmBuild target in NpmPack.targets from the package Microsoft.VisualStudio.Internal.MicroBuild.NpmPack.
 
 ![image](docs/repo/images/workloads-for-building-the-repo.png)
 
